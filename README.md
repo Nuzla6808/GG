@@ -1,2 +1,0 @@
-# GG
-News in wordpress
